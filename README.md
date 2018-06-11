@@ -1,0 +1,2 @@
+# Katalon
+INNO QA compartilhado
